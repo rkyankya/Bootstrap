@@ -14,8 +14,8 @@ body {
 	padding: 30px;
 }
 
-/*navigation*/
-/*navigation top*/
+/* navigation */
+/* navigation top */
 
 .container-fluid {
 	position: relative;
@@ -47,7 +47,7 @@ body {
 	left: 50%;
 }
 
-.logoimg > img {
+.logoimg>img {
 	width: 100%;
 }
 
@@ -92,7 +92,7 @@ body {
 	z-index: 9999;
 }
 
-/*navigation bottom*/
+/* navigation bottom */
 
 .header-bottom {
 	color: #000;
@@ -131,11 +131,11 @@ body {
 	border-left: 1px solid #d9d9d9;
 }
 
-.page-nav > li > a {
+.page-nav>li>a {
 	cursor: pointer;
 }
 
-.page-nav > li > a:hover {
+.page-nav>li>a:hover {
 	color: #f72210 !important;
 }
 
@@ -163,7 +163,8 @@ body {
 	background-color: #fff;
 }
 
-/*col 1 */
+/* col 1  */
+
 .block-title {
 	color: #03030366;
 	font-weight: bold;
@@ -220,7 +221,7 @@ h3 {
 	color: #000;
 }
 
-/*Col 2*/
+/* Col 2 */
 
 #more-stories-part {
 	padding-top: 14px;
@@ -240,7 +241,7 @@ h6 {
 	font-weight: 700;
 }
 
-/*Col 3*/
+/* Col 3 */
 
 .opinion {
 	border-bottom: 1px solid #ddd;
@@ -305,8 +306,7 @@ h6 {
 	display: block;
 	max-width: 29px;
 	height: 28px;
-	background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/logo-n1.svg) center/contain
-		no-repeat #f72210;
+	background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/logo-n1.svg) center/contain no-repeat #f72210;
 	margin-right: 10px;
 }
 
@@ -333,7 +333,7 @@ h6 {
 	margin-right: auto;
 }
 
-/*Bottom*/
+/* Bottom */
 
 .bottom {
 	margin-top: 30px;
@@ -354,8 +354,7 @@ h6 {
 	width: 8px;
 	height: 14px;
 	margin-left: 10px;
-	background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-arrow-right-black.svg)
-		center/contain no-repeat;
+	background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-arrow-right-black.svg) center/contain no-repeat;
 }
 
 .part-title {
@@ -424,7 +423,7 @@ h6 {
 	margin-right: 7px;
 }
 
-.cat > a {
+.cat>a {
 	color: #f72210;
 }
 
@@ -566,7 +565,7 @@ footer {
 	padding-bottom: 20px;
 }
 
-.logo-footer > img {
+.logo-footer>img {
 	width: 236px;
 	height: 36px;
 	fill: #f72210;
@@ -581,7 +580,7 @@ footer {
 	text-align: right;
 }
 
-.media-icons > i {
+.media-icons>i {
 	vertical-align: bottom;
 	font-size: 25px;
 	color: #666;
@@ -657,7 +656,8 @@ footer {
 		display: none;
 	}
 
-	/*main*/
+	/* main */
+
 	#right-col {
 		margin: auto;
 	}
