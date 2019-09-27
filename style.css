@@ -1,5 +1,5 @@
 body {
-	background-color: #f4f5f6;
+  background-color: #f4f5f6;
 	color: #333;
 	font-size: 13px;
 	line-height: 18px;
@@ -13,8 +13,6 @@ body {
 	background-color: #fff;
 	padding: 30px;
 }
-
-/* navigation */ /* navigation top */
 
 .container-fluid {
 	position: relative;
