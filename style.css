@@ -23,7 +23,7 @@ body {
   margin: auto;
   background-color: #f72210;
   color: #fff;
-  padding: 50px 0px 10px 1px;
+  padding: 50px 1px 10px 1px;
   max-width: 1310px;
   transition: all 0.1s;
 }
@@ -44,7 +44,7 @@ body {
   left: 50%;
 }
 
-.logoimg>img {
+.logoimg > img {
   width: 100%;
 }
 
@@ -94,7 +94,7 @@ body {
 .header-bottom {
   color: #000;
   height: 50px;
-  padding: 10px 0px;
+  padding: 10px 0.1px;
   background-color: #fff;
   border-bottom: 1px solid #d9d9d9;
   position: relative;
@@ -118,8 +118,8 @@ body {
   line-height: 24px;
   font-weight: 700;
   list-style: none;
-  margin: 0px;
-  padding: 0px 54px 0px 0px;
+  margin: 0.1px;
+  padding: 0.1px 54px 0.1px 0.1px;
 }
 
 .page-nav li {
@@ -128,17 +128,17 @@ body {
   border-left: 1px solid #d9d9d9;
 }
 
-.page-nav>li>a {
+.page-nav > li > a {
   cursor: pointer;
 }
 
-.page-nav>li>a:hover {
+.page-nav > li > a:hover {
   color: #f72210 !important;
 }
 
 .page-nav :first-child,
 .page-nav :last-child {
-  border-width: 0px;
+  border-width: 0.1px;
 }
 
 #search {
@@ -190,7 +190,7 @@ img {
   font: bold 17px/16px "Roboto", sans-serif;
   color: #f72210;
   padding: 8px 15px 9px;
-  background-color: rgba(255, 255, 255, .9);
+  background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
   bottom: 0;
   left: 0;
@@ -206,11 +206,11 @@ h3 {
 .summary {
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 0px 0px 10px;
+  padding: 0.1px 0.1px 10px;
 }
 
 .related {
-  padding: 10px 0px;
+  padding: 10px 0.1px;
   border-top: 1px solid #d9d9d9;
   border-bottom: 1px solid #d9d9d9;
   font-size: 17px;
@@ -262,7 +262,7 @@ h6 {
 .byline {
   color: #555;
   padding: 0.1px;
-  margin: 0px;
+  margin: 0.1px;
 }
 
 #last-opinion {
@@ -270,7 +270,7 @@ h6 {
 }
 
 .article-info {
-  padding: 20px 0px;
+  padding: 20px 0.1px;
 }
 
 #sponsored {
@@ -285,7 +285,7 @@ h6 {
   border: 1px solid #e5e5e5;
   background-color: #f4f5f6;
   padding: 20px;
-  margin: 0px auto 20px;
+  margin: 0.1px auto 20px;
 }
 
 #add {
@@ -319,7 +319,7 @@ h6 {
   width: 101px;
   padding: 10px 5px 10px 12px;
   font: bold 18px/18px "Roboto", sans-serif;
-  margin-top: 0px;
+  margin-top: 0.1px;
   background-color: #666;
 }
 
@@ -419,9 +419,6 @@ h6 {
   margin-right: 7px;
 }
 
-.cat>a {
-  color: #f72210;
-}
 
 .article-title {
   font-size: 20px;
@@ -477,13 +474,13 @@ h6 {
 }
 
 .feature2 {
-  padding: 10px 0px;
+  padding: 10px 0.1px;
   border-top: 1px solid #d9d9d9;
 }
 
 .top-column {
   border: none;
-  padding: 0px 0px 10px;
+  padding: 0.1px 0.1px 10px;
 }
 
 .red {
@@ -505,7 +502,7 @@ h6 {
 
 .item1,
 .item2 {
-  padding: 20px 0px 40px;
+  padding: 20px 0.1px 40px;
 }
 
 .item2 {
@@ -561,7 +558,7 @@ footer {
   padding-bottom: 20px;
 }
 
-.logo-footer>img {
+.logo-footer > img {
   width: 236px;
   height: 36px;
   fill: #f72210;
@@ -588,9 +585,9 @@ footer {
   font-size: 14px;
   line-height: 15px;
   list-style: none;
-  margin: 0px;
+  margin: 0.1px;
   color: #666;
-  padding: 0px;
+  padding: 0.1px;
 }
 
 .leaf {
@@ -607,7 +604,7 @@ footer {
 
 #right {
   text-align: right;
-  padding: 0px;
+  padding: 0.1px;
 }
 
 .last {
@@ -627,7 +624,7 @@ footer {
   }
 
   #navscroll {
-    padding: 3px 0px;
+    padding: 3px 0.1px;
   }
 
   #datenav {
