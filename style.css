@@ -15,10 +15,10 @@ body {
 }
 
 
-/*navigation*/
+/* navigation */
 
 
-/*navigation top*/
+/* navigation top */
 
 .container-fluid {
     position: relative;
@@ -96,7 +96,7 @@ body {
 }
 
 
-/*navigation bottom*/
+/* navigation bottom */
 
 .header-bottom {
     color: #000;
@@ -272,7 +272,7 @@ h6 {
 }
 
 .byline {
-    color: #555555;
+    color: gray;
     padding: 0px;
     margin: 0px;
 }
@@ -657,7 +657,7 @@ footer {
     .header-bottom {
         display: none;
     }
-    /*main*/
+    /* main */
     #right-col {
         margin: auto;
     }
