@@ -48,6 +48,11 @@ body {
   left: 50%;
 }
 
+.img {
+  position: relative;
+  width: 100%;
+}
+
 .logoimg > img {
   width: 100%;
 }
@@ -77,6 +82,13 @@ body {
   padding-right: 10px;
   padding-left: 10px;
   z-index: 9999;
+}
+
+.magazine-article .category span:first-of-type {
+  padding: 3px 7px;
+  background-color: #f72210;
+  color: #fff;
+  margin-right: 7px;
 }
 
 #signin span {
@@ -132,14 +144,6 @@ body {
   border-left: 1px solid #d9d9d9;
 }
 
-.page-nav > li > a {
-  cursor: pointer;
-}
-
-.page-nav > li > a:hover {
-  color: #f72210 !important;
-}
-
 .page-nav :first-child,
 .page-nav :last-child {
   border-width: 0.01px;
@@ -181,11 +185,6 @@ article {
 .wrap {
   position: relative;
   min-height: 33px;
-}
-
-img {
-  position: relative;
-  width: 100%;
 }
 
 .pic-on {
@@ -415,17 +414,6 @@ h6 {
   margin-bottom: 10px;
 }
 
-.magazine-article .category span:first-of-type {
-  padding: 3px 7px;
-  background-color: #f72210;
-  color: #fff;
-  margin-right: 7px;
-}
-
-.cat > a {
-  color: #f72210;
-}
-
 .article-title {
   font-size: 20px;
   color: #000;
@@ -640,6 +628,18 @@ footer {
   #signin {
     font-size: 14px;
     bottom: 0.01px;
+  }
+
+  .cat > a {
+    color: #f72210;
+  }
+
+  .page-nav > li > a {
+    cursor: pointer;
+  }
+
+  .page-nav > li > a:hover {
+    color: #f72210 !important;
   }
 
   #signin a {
